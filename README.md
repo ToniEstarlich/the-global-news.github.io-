@@ -41,7 +41,7 @@ Global News embodies the ideals of journalistic freedom and technology as a mean
 
 | Desktop View | Tablet View | Mobile View |
 |--------------|-------------|-------------|
-| <img src="./assets/screenshots/pc-screen.jpeg" alt="Desktop Screenshot" width="330"> | <img src="./assets/screenshots/ipad-mini.jpeg" alt="Tablet Screenshot" width="150"> | <img src="./assets/screenshots/smartphone.png" alt="Mobile Screenshot" width="50"> |
+| <img src="./assets/screenshots/pc-screen.jpeg" alt="Desktop Screenshot" width="330"> | <img src="./assets/screenshots/ipad-mini.jpeg" alt="Tablet Screenshot" width="150"> | <img src="./assets/screenshots/smartphone.png" alt="Mobile Screenshot" width="70"> |
 
 ---
 ## Design Style
@@ -726,7 +726,7 @@ All tests passed successfully, ensuring the components are working as expected.
 ---
 
 # Testing Components
-Through hands-on experience with JEST, I’ve tested various components to ensure functionality, accuracy, and reliability. Given the project's complexity, with its 22 components, the process required continuous adjustments. This section documents the iterative resolution of issues, structuring problems and solutions much like a 'Book of Pythagoras
+Through hands-on experience with JEST, I’ve tested various components to ensure functionality, accuracy, and reliability. Given the project's complexity, with its 22 components, the process required continuous adjustments. This section documents the iterative resolution of issues, structuring problems and solutions much like a 'Book of Pythagoras'
 
 ---
 # About Header Component
